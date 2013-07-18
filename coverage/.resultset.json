@@ -17,6 +17,17 @@
       "/Users/Thu/ticketee2/app/controllers/application_controller.rb": [
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        15,
+        15,
+        6,
+        6,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/Thu/ticketee2/app/helpers/application_helper.rb": [
@@ -36,12 +47,27 @@
         null,
         null
       ],
+      "/Users/Thu/ticketee2/app/helpers/admin/users_helper.rb": [
+        1,
+        null
+      ],
       "/Users/Thu/ticketee2/app/helpers/projects_helper.rb": [
         1,
         null
       ],
       "/Users/Thu/ticketee2/app/helpers/tickets_helper.rb": [
         1,
+        null
+      ],
+      "/Users/Thu/ticketee2/app/controllers/admin/base_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/Thu/ticketee2/app/controllers/admin/users_controller.rb": [
+        1,
+        1,
+        null,
         null
       ],
       "/Users/Thu/ticketee2/app/controllers/projects_controller.rb": [
@@ -93,14 +119,6 @@
         null,
         null,
         1,
-        null,
-        1,
-        14,
-        14,
-        5,
-        5,
-        null,
-        null,
         null,
         1,
         26,
@@ -192,6 +210,6 @@
         null
       ]
     },
-    "timestamp": 1374131114
+    "timestamp": 1374131839
   }
 }
